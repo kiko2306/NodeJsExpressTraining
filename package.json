@@ -1,0 +1,17 @@
+{
+  "name": "nodejsexpresstraining",
+  "version": "1.0.0",
+  "description": ". https://www.youtube.com/watch?v=Oe421EPjeBE",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "lodash": "^4.17.21",
+    "nodemon": "^3.1.0"
+  }
+}
